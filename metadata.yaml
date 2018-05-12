@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8246
     wikipedia: http://en.wikipedia.org/wiki/Sidney_Lee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18780#Shakespeare-and-the-Modern-Stagewith-Other-Essays
 gutenberg_issued: '2006-07-07'
 gutenberg_type: Text
 identifiers:
