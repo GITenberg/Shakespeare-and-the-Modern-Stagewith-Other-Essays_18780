@@ -1,0 +1,37 @@
+_repo: Shakespeare-and-the-Modern-Stagewith-Other-Essays_18780
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, Sidney, Sir
+    aliases:
+    - Levi, Solomon Lazarus
+    - Lee, Sidney Lazarus, Sir
+    - Lee, Sidney L. (Sidney Lazarus), Sir
+    birthdate: 1859
+    deathdate: 1926
+    gutenberg_agent_id: '8246'
+    url: http://www.gutenberg.org/2009/agents/8246
+    wikipedia: http://en.wikipedia.org/wiki/Sidney_Lee
+description: ''
+gutenberg_issued: '2006-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18780'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616'
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Stage history'
+tableOfContents: Shakespeare and the modern stage -- Shakespeare and the Elizabethan
+  playgoer -- Shakespeare in oral tradition -- Pepys and Shakespeare -- Mr. Benson
+  and the Shakespearean drama -- The municipal theatre -- Aspects of Shakespeare's
+  philosophy -- Shakespeare and patriotism -- A peril of Shakespearean research --
+  Shakespeare in France -- The commemoration of Shakespeare in London.
+title: Shakespeare and the Modern Stage; with Other Essays
+url: http://www.gutenberg.org/ebooks/18780
